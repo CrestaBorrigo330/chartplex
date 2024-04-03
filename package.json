@@ -1,0 +1,42 @@
+{
+  "name": "chartplex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestaBorrigo330/chartplex.git"
+  },
+  "author": "CrestaBorrigo330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestaBorrigo330/chartplex/issues"
+  },
+  "homepage": "https://github.com/CrestaBorrigo330/chartplex#readme",
+  "dependencies": {
+    "@yindongfang/keybinding": "^1.0.1",
+    "blob": "^0.1.0",
+    "cytoscape": "^3.28.1",
+    "debug": "^4.3.4",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-falsy": "^0.0.1",
+    "is-number": "^7.0.0",
+    "is-odd": "^3.0.1",
+    "node-fetch": "^2.7.0",
+    "qs": "^6.12.0",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0",
+    "cyto-logger": "^1.0.0",
+    "cyto-debugger": "^1.0.0",
+    "cyto-inspector": "^1.0.0",
+    "cyto-builder": "^1.0.0",
+    "cyto-reporter": "^1.0.0",
+    "[object Object]": "^1.0.0"
+  }
+}
